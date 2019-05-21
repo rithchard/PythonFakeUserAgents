@@ -1,5 +1,5 @@
 # PythonFakeUserAgents
-Get the most common user agents for Python
+Get the most common User-Agent for Python
 
 ### Usage
 ```bash
